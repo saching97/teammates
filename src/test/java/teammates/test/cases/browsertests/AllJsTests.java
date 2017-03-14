@@ -19,7 +19,7 @@ import teammates.test.pageobjects.QUnitPage;
  */
 public class AllJsTests extends BaseUiTestCase {
 
-    private static final float MIN_COVERAGE_REQUIREMENT = 25;
+    private static final float MIN_COVERAGE_REQUIREMENT = 24;
     private QUnitPage page;
 
     @Override
